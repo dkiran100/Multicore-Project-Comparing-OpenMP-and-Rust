@@ -1,0 +1,1 @@
+# Multicore-Project-Comparing-OpenMP-and-Rust
